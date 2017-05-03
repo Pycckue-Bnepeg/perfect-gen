@@ -1,0 +1,27 @@
+{
+  "keys": {
+    "prefix": "",
+    "serial": {
+      "replacement": "o",
+      "count": 2
+    },
+    "postfix": null,
+    "count": 6,
+    "vanitygen_path": "/home/user/documents/vanitygen/build/vanitygen"
+  },
+
+  "image": {
+    "ratio": 1.5,
+    "border_type": "none",
+    "border_radius": 10,
+    "qr_code_size": 350
+  },
+
+  "blocks": {
+    "padding": 40,
+    "max_width": 1,
+    "max_height": 2,
+    "serial_size": 20,
+    "font_path": "./fonts/FiraMono.ttf"
+  }
+}
